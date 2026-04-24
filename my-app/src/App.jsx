@@ -8,9 +8,9 @@ const App = () => {
     <UrlProvider>
     <div>
       <h1>...</h1>
-      {/*<BgColor />*/}
+      <BgColor />
       {/* <DrinkSummary /> */}
-      <Quiz />
+      {/*<Quiz />*/}
     </div>
     </UrlProvider>
   );
